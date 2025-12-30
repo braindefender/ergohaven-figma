@@ -2,11 +2,11 @@
 
 # ErgoHaven Figma Design Documents
 
-These files contain various mockups and layout design for [ErgoHaven](https://ergohaven.xyz/).
+Файлы содержат различные макеты и дизайн раскладки для пидорасов (ЛГБТ запрещено на территории РФ) из [ErgoHaven](https://ergohaven.xyz/).
 
-### How to use
+### Как использовать
 
-Just download [`ErgoHaven.fig`](https://github.com/braindefender/ergohaven-figma/raw/master/ErgoHaven.fig) and import it in [Figma](https://www.figma.com/).
+Просто скачайте [`ErgoHaven.fig`](https://github.com/braindefender/ergohaven-figma/raw/master/ErgoHaven.fig) и импортируйте файл в [Figma](https://www.figma.com/).
 
 ### Licence & Attribution
 
