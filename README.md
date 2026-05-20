@@ -2,7 +2,7 @@
 
 # ErgoHaven Figma Design Documents
 
-Файлы содержат различные макеты и дизайн раскладки для пидорасов (ЛГБТ запрещено на территории РФ) из [ErgoHaven](https://ergohaven.xyz/).
+Файлы содержат различные макеты и дизайн раскладки для [ErgoHaven](https://ergohaven.xyz/).
 
 ### Как использовать
 
